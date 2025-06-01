@@ -26,9 +26,7 @@
 - Helps detect stealthy PowerShell-based attacks used by adversaries.
 
 ## 📸 Screenshot Reference
-- Included:
-  - PowerShell Event 4103 Properties
-  - Event Viewer filtered logs
+- Screenshots from this lab can be found in the [screenshots](./screenshots) folder.
 
 ---
 
