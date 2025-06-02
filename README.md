@@ -9,9 +9,11 @@ I’m documenting each day's learning, lab, and reflection as I build my Blue Te
 | Day | Topic | Status | Link |
 |-----|-------|--------|------|
 | 1 | Introduction to Log Analysis | ✅ Done | [Day 1](./Day01/summary.md) |
-| 2 | Windows Logon Events | 🔜 In Progress | [Day 2](./Day02/summary.md) |
-| 3 | Logon Types Deep Dive | ⏳ Coming Soon | - |
-| ... | ... | ... | ... |
+| 2 | Windows Security Logs | ✅ Done | [Day 2](./Day02/summary.md) |
+| 3 | PowerShell Logging & Event ID 4103 | ✅ Done | [Day 3](./Day03/Day3_summary.md)|
+| 4 | Introduction to Log Analysis: Network-Based Attacks on Linux | ✅ Done | [Day 4](./Day04/summary.md) |
+| 5 | Linux Auth Log | 🔜 In Progress | - |
+| 6 | Logon Types Deep Dive | ⏳ Coming Soon | - |
 
 ## 📎 About Me
 
