@@ -12,7 +12,7 @@ I’m documenting each day's learning, lab, and reflection as I build my Blue Te
 | 2 | Windows Security Logs | ✅ Done | [Day 2](./Day02/summary.md) |
 | 3 | PowerShell Logging & Event ID 4103 | ✅ Done | [Day 3](./Day03/Day3_summary.md)|
 | 4 | Introduction to Log Analysis: Network-Based Attacks on Linux | ✅ Done | [Day 4](./Day04/summary.md) |
-| 5 | Linux Auth Log | ✅ Done | [Day 4](./Day05/summary.md) |
+| 5 | Linux Auth Log | ✅ Done | [Day 5](./Day05/summary.md) |
 | 6 | Introduction to Wireshark – Packet Analysis for SOC Analysts | 🔜 In Progress | - |
 | 7 | Logon Types Deep Dive | ⏳ Coming Soon | - |
 
