@@ -13,8 +13,9 @@ I’m documenting each day's learning, lab, and reflection as I build my Blue Te
 | 3 | PowerShell Logging & Event ID 4103 | ✅ Done | [Day 3](./Day03/Day3_summary.md)|
 | 4 | Introduction to Log Analysis: Network-Based Attacks on Linux | ✅ Done | [Day 4](./Day04/summary.md) |
 | 5 | Linux Auth Log | ✅ Done | [Day 5](./Day05/summary.md) |
-| 6 | Introduction to Wireshark – Packet Analysis for SOC Analysts | 🔜 In Progress | - |
-| 7 | Logon Types Deep Dive | ⏳ Coming Soon | - |
+| 6 | Introduction to Wireshark – Packet Analysis for SOC Analysts | ✅ Done | [Day 6](./Day06/summary.md) |
+| 7 | Introduction to Wireshark – ICMP Protocol Analysis | 🔜 In Progress | - |
+| 8 | Logon Types Deep Dive | ⏳ Coming Soon | - |
 
 ## 📎 About Me
 
