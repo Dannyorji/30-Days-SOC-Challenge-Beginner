@@ -15,8 +15,9 @@ I’m documenting each day's learning, lab, and reflection as I build my Blue Te
 | 5 | Linux Auth Log | ✅ Done | [Day 5](./Day05/summary.md) |
 | 6 | Introduction to Wireshark – Packet Analysis for SOC Analysts | ✅ Done | [Day 6](./Day06/summary.md) |
 | 7 | Introduction to Wireshark – ICMP Protocol Analysis | ✅ Done | [Day 7](./Day07/summary.md) |
-| 8 | Introduction to Wireshark – TCP Protocol Analysis | 🔜 In Progress | - |
-| 9 | Logon Types Deep Dive | ⏳ Coming Soon | - |
+| 8 | Wireshark Basics – TCP Protocol Analysis | ✅ Done | [Day 8](./Day08/summary.md) |
+| 9 | Wireshark Basics – HTTP Protocol Analysis | 🔜 In Progress | - |
+| 10 | Logon Types Deep Dive | ⏳ Coming Soon | - |
 
 ## 📎 About Me
 
