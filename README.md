@@ -16,8 +16,9 @@ I’m documenting each day's learning, lab, and reflection as I build my Blue Te
 | 6 | Introduction to Wireshark – Packet Analysis for SOC Analysts | ✅ Done | [Day 6](./Day06/summary.md) |
 | 7 | Introduction to Wireshark – ICMP Protocol Analysis | ✅ Done | [Day 7](./Day07/summary.md) |
 | 8 | Wireshark Basics – TCP Protocol Analysis | ✅ Done | [Day 8](./Day08/summary.md) |
-| 9 | Wireshark Basics – HTTP Protocol Analysis | 🔜 In Progress | - |
-| 10 | Logon Types Deep Dive | ⏳ Coming Soon | - |
+| 9 | Wireshark Basics – HTTP Protocol Analysis | ✅ Done | [Day 9](./Day09/summary.md) |
+| 10 | Wireshark Basics – TLS Protocol Analysis | 🔜 In Progress | - |
+| 11 | Logon Types Deep Dive | ⏳ Coming Soon | - |
 
 ## 📎 About Me
 
