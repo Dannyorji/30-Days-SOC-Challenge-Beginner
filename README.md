@@ -18,8 +18,9 @@ I’m documenting each day's learning, lab, and reflection as I build my Blue Te
 | 8 | Wireshark Basics – TCP Protocol Analysis | ✅ Done | [Day 8](./Day08/summary.md) |
 | 9 | Wireshark Basics – HTTP Protocol Analysis | ✅ Done | [Day 9](./Day09/summary.md) |
 | 10 | Wireshark Basics – TLS Protocol Analysis | ✅ Done | [Day 10](./Day10/summary.md) |
-| 11 | Introduction to Incident Response | 🔜 In Progress | - |
-| 12 | Logon Types Deep Dive | ⏳ Coming Soon | - |
+| 11 | Introduction to Incident Response | ✅ Done | [Day 11](./Day11/summary.md) |
+| 12 | Incident Response Basics – Linux Suspicious Bash Script Execution | 🔜 In Progress | - |
+| 13 | Logon Types Deep Dive | ⏳ Coming Soon | - |
 
 ## 📎 About Me
 
