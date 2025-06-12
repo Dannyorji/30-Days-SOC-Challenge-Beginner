@@ -21,8 +21,9 @@ I’m documenting each day's learning, lab, and reflection as I build my Blue Te
 | 11 | Introduction to Incident Response | ✅ Done | [Day 11](./Day11/summary.md) |
 | 12 | Incident Response Basics – Linux Suspicious Bash Script Execution | ✅ Done | [Day 12](./Day12/summary.md) |
 | 13 | Detecting and Removing Malicious Cron Jobs – Linux Incident Response Lab | ✅ Done | [Day 13](./Day13/summary.md) |
-| 14 | Detecting Suspicious PowerShell Activity – Windows Incident Response Lab | 🔜 In Progress | - |
-| 15 | Logon Types Deep Dive | ⏳ Coming Soon | - |
+| 14 | Detecting Suspicious PowerShell Activity – Windows Incident Response Lab | ✅ Done | [Day 14](./Day14/summary.md) |
+| 15 | Incident Response Basics – Suspicious Network Connection | 🔜 In Progress | - |
+| 16 | Logon Types Deep Dive | ⏳ Coming Soon | - |
 
 ## 📎 About Me
 
