@@ -23,8 +23,10 @@ I’m documenting each day's learning, lab, and reflection as I build my Blue Te
 | 13 | Detecting and Removing Malicious Cron Jobs – Linux Incident Response Lab | ✅ Done | [Day 13](./Day13/summary.md) |
 | 14 | Detecting Suspicious PowerShell Activity – Windows Incident Response Lab | ✅ Done | [Day 14](./Day14/summary.md) |
 | 15 | Incident Response Basics – Suspicious Network Connection | ✅ Done | [Day 15](./Day15/summary.md) |
-| 16 | Install and Configure Splunk | 🔜 In Progress | - |
-| 17 | Logon Types Deep Dive | ⏳ Coming Soon | - |
+| 16 | Install and Configure Splunk | ✅ Done | [Day 16](./Day16/summary.md) |
+| 17 | Splunk Basics – DNS Log Analysis | ✅ Done | [Day 17](./Day17/summary.md) |
+| 18 | Splunk Basics – SSH Log Analysis | 🔜 In Progress | - |
+| 19 | Logon Types Deep Dive | ⏳ Coming Soon | - |
 
 ## 📎 About Me
 
